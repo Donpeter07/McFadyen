@@ -29,8 +29,6 @@ const Header = () => {
         </div>
       </div>
 
-
-
       {/* Mobile */}
       <div className="header-mobile-main">
         <div style={{fontSize:"20px"}}>

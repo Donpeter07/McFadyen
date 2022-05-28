@@ -77,7 +77,7 @@ const Footer = () => {
                 {/* Sec 2 */}
                 <div className="footer-sec2">
                     <div style={{ fontWeight: "700", marginBottom: "10px" }}>
-                        COMPANY NAME
+                        COMPANY
                     </div>
                     <div className='footer-styled'>
                         About Us
@@ -105,7 +105,7 @@ const Footer = () => {
                         Terms and Conditions
                     </div>
                     <div className='footer-styled'>
-                        Common Questions You have
+                        Common Questions
                     </div>
                 </div>
 
