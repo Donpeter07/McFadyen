@@ -92,7 +92,7 @@ const Body = () => {
           {/* 3 rd section */}
           <div className="body-third-box">
             <div className="body-third-box-heading">
-              Waterfall Knitted Cardigan
+              Waterfall Knitted Cardiganb and Francis
             </div>
             <div className="product-id">Product Id 2CDE283001R0100</div>
             <div style={{ marginBottom: "15px" }}>
